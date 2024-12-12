@@ -50,7 +50,7 @@ body{
     background-color: #95A5A6;
 }
 .btns:active{
-    border-radius: 20%;
+    border-radius: 30%;
     background-color: #7F8C8D;
 }
 
@@ -67,6 +67,6 @@ body{
     background-color: #E67E22;
 }
 .o-btns:active{
-    border-radius: 20%;
+    border-radius: 30%;
     background-color: #D35400;
 }
